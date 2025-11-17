@@ -54,10 +54,10 @@
 - main/resources/META-INF Configuración de JPA
 
 ### DER
-![DIAGRAMA ENTIEDAD RELACION](Integrador2/diagrama/der.png)
+![DIAGRAMA ENTIEDAD RELACION](./diagrama/der.png)
 
 ### DIAGRAMA DE OBJETOS
-![DIAGRAMA DE CLASES](Integrador2/diagrama/diagrama-de-clases.png)
+![DIAGRAMA DE CLASES](./diagrama/diagrama-de-clases.png)
 
 ## Autores
 | Nombre    | Apellido | DNI         | E-mail                        | Sede   |
